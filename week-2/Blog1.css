@@ -1,0 +1,118 @@
+@media (min-width: 576px) { ... }
+
+body{
+    background-color:rgba(29, 0, 18, 0.836);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTaA3bT6mB5S_OeQ9-8QbvNimTgeAtsjc6K-_ylvMngI9INYrP);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.im{
+    margin-left:100px;
+}
+.post{
+    border:20px solid rgba(243, 95, 95, 0.253);
+    max-width:900px;
+    width:805px;
+    margin-left: 2rem;
+    margin-top: 10px;
+    padding: 20px;
+    max-width:1000px;
+    width:80%;
+    font-family:caviar dreams;
+    font-weight: bold;
+    background: rgba(241, 210, 210, 0.692);
+    margin-bottom: 20px;
+}
+.ng{
+    background-color: #9ffa9f3d;
+    border-radius: 10px;
+    border: 1px solid   white;
+}
+.li{
+    align-self: hover;
+    list-style-type: none;
+    padding-left: 20px;
+    padding-right:10px;
+    font-size:20px;
+    border-left: 2px solid rgba(243, 186, 229, 0.884);
+    }
+.t span{
+    color: white;
+}
+.he{
+    text-align: center;
+    font-size: 70px;
+    color: wheat;
+    width:80%;
+    font-family: 'Bangers', cursive;
+    letter-spacing: 10px;
+}
+.end{
+    
+}
+.footer {
+    background-color: #2f5167;
+    color: #fff;
+    height: 120px;
+    padding: 40px;
+  }
+  
+  .footer-logo {
+    float: left;
+    font-size: 32px;
+  }
+  
+  .footer-list {
+    float: right;
+    font-weight: bold;
+  }
+  
+  .footer-list li {
+    padding-bottom: 20px;
+  }
+.po{
+    margin-top: 100px;
+    max-width:1000px;
+    margin-left:100px;
+    width:100%;
+    font-family:caviar dreams;
+    font-weight: bold;
+    color:rgb(233, 211, 224);
+}
+.quote{
+    border-left: 5px solid rgb(219, 16, 175);
+    padding-left: 5px;
+  }
+  .date{
+      font-size: 30px;
+      letter-spacing: 2px;
+  }
+  .end{
+      float:right;
+      padding-bottom:20px;
+      font-size: 15px;
+      font-weight: bold;
+      font-family: caviar dreams;
+  }
+  hr{
+  
+      height: 12px;
+      border: 0;
+      box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+  }
+.lo span{
+    font:Vivaldi;
+    color: white;
+    font-size:30px;
+    font-weight: bold;
+    padding-right: 20px;
+    padding-left: 10px;   
+}
+.j span{
+
+    color:#9ffa9f3d;
+}
+.l{
+    margin-top: 10px;
+}
